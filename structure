@@ -1,0 +1,18 @@
+web-map-project/
+│
+├── data/
+│   ├── 1000km_whole.shp
+│   ├── Whole_Network.shp
+│   └── ...
+│
+├── scripts/
+│   └── generate_map.py
+│
+├── static/
+│   ├── style.css
+│   └── script.js
+│
+├── requirements.txt
+├── map_with_location_search.html
+├── README.md
+└── .gitignore
